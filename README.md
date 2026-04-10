@@ -77,9 +77,4 @@ project_directory/
 
 ---
 
-## 🎯 Next Steps / Ongoing Tasks
-*(Teammates: Please update your tasks here!)*
 
-- [ ] Further tuning the Machine Learning parameters for the Isolation Forest to reduce edge-case false positives.
-- [ ] Connect the output Mitigation Agent into an actual system firewall wrapper (e.g., `iptables` simulator) instead of just string logging.
-- [ ] Deploy and test this exact pipeline onto a Raspberry Pi to record physical CPU/RAM consumption graphs during active streaming.
