@@ -1,201 +1,201 @@
-packet_idx,true_label,decision,votes,action,attack_type,confidence,xai_reason,true_binary,pred_binary
-0,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-1,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-2,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-3,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-4,Benign,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Unknown_Anomaly,0.75,"3/3 agents confirmed threat. Type: Unknown_Anomaly. Weighted confidence: 0.75. Action: device isolated, firewall rule applied.",0,1
-5,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-6,Benign,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Unknown_Anomaly,0.75,"3/3 agents confirmed threat. Type: Unknown_Anomaly. Weighted confidence: 0.75. Action: device isolated, firewall rule applied.",0,1
-7,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-8,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-9,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-10,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-11,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-12,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-13,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-14,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-15,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-16,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-17,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-18,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-19,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-20,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-21,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-22,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-23,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-24,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-25,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-26,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-27,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-28,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-29,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-30,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-31,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-32,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-33,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-34,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-35,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-36,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-37,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-38,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-39,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0
-40,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-41,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-42,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-43,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-44,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-45,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,0.99,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 0.99. Action: device isolated, firewall rule applied.",1,1
-46,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,0.98,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 0.98. Action: device isolated, firewall rule applied.",1,1
-47,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-48,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-49,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-50,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Unknown_Anomaly,0.75,"3/3 agents confirmed threat. Type: Unknown_Anomaly. Weighted confidence: 0.75. Action: device isolated, firewall rule applied.",1,1
-51,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-52,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-53,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-54,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-55,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-56,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-57,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-58,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-59,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-60,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-61,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-62,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-63,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-64,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-65,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-66,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-67,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,0.99,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 0.99. Action: device isolated, firewall rule applied.",1,1
-68,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-69,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-70,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-71,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-72,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-73,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-74,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-75,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-76,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-77,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-78,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-79,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-80,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-81,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-82,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-83,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-84,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-85,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,0.97,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 0.97. Action: device isolated, firewall rule applied.",1,1
-86,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,1.0,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-87,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-88,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-89,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-90,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-91,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-92,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-93,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-94,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-95,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-96,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-97,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-98,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-99,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-100,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-101,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-102,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-103,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-104,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-105,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-106,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-107,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-108,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,0.85,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 0.85. Action: device isolated, firewall rule applied.",1,1
-109,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-110,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-111,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-112,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-113,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-114,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-115,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-116,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-117,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-118,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-119,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-120,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-121,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-122,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-123,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-124,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-125,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-126,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-127,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-128,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-129,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-130,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-131,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-132,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-133,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-134,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-135,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-136,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-137,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-138,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-139,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-140,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-141,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-142,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-143,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-144,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-145,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-146,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-147,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-148,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-149,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-150,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-151,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-152,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-153,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-154,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-155,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-156,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-157,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-158,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-159,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-160,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.95,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-161,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-162,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.99,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.99. Action: device isolated, firewall rule applied.",1,1
-163,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-164,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-165,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-166,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-167,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-168,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-169,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-170,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-171,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.94,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.94. Action: device isolated, firewall rule applied.",1,1
-172,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-173,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-174,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-175,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.7,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.7. Action: device isolated, firewall rule applied.",1,1
-176,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-177,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-178,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-179,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-180,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-181,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-182,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-183,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-184,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-185,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.77,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.77. Action: device isolated, firewall rule applied.",1,1
-186,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-187,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.94,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.94. Action: device isolated, firewall rule applied.",1,1
-188,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.96,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.96. Action: device isolated, firewall rule applied.",1,1
-189,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.98,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.98. Action: device isolated, firewall rule applied.",1,1
-190,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-191,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-192,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-193,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-194,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.99,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.99. Action: device isolated, firewall rule applied.",1,1
-195,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-196,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.88,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.88. Action: device isolated, firewall rule applied.",1,1
-197,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
-198,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1
-199,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1
+packet_idx,true_label,decision,votes,action,attack_type,confidence,xai_reason,true_binary,pred_binary,latency_ms
+0,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,102.3445
+1,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,102.548
+2,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,102.0657
+3,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,100.0452
+4,Benign,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Unknown_Anomaly,0.75,"3/3 agents confirmed threat. Type: Unknown_Anomaly. Weighted confidence: 0.75. Action: device isolated, firewall rule applied.",0,1,13.5376
+5,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,105.9649
+6,Benign,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Unknown_Anomaly,0.75,"3/3 agents confirmed threat. Type: Unknown_Anomaly. Weighted confidence: 0.75. Action: device isolated, firewall rule applied.",0,1,10.4991
+7,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,128.7006
+8,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,111.657
+9,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,129.6583
+10,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,124.6997
+11,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,112.7641
+12,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,99.9717
+13,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.344
+14,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,99.1296
+15,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,104.0378
+16,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,97.2332
+17,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,98.3763
+18,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,103.2262
+19,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,102.0506
+20,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,97.9697
+21,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,97.3236
+22,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.6874
+23,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,101.9748
+24,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,103.7728
+25,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,101.9471
+26,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,98.5477
+27,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.9677
+28,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,97.2875
+29,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.5595
+30,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,95.2011
+31,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,94.7387
+32,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,94.9187
+33,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.5168
+34,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,98.203
+35,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,99.5747
+36,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,108.9908
+37,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,137.0386
+38,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.9098
+39,Benign,BENIGN,0/3,ALLOW,None,1.0,Only 0/3 agents flagged threat. Below 0% threshold. Traffic allowed.,0,0,96.5716
+40,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,102.41
+41,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0933
+42,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0474
+43,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0652
+44,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0446
+45,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0449
+46,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0436
+47,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0441
+48,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0428
+49,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0414
+50,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.041
+51,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0442
+52,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0419
+53,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Unknown_Anomaly,0.75,"3/3 agents confirmed threat. Type: Unknown_Anomaly. Weighted confidence: 0.75. Action: device isolated, firewall rule applied.",1,1,18.7489
+54,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0474
+55,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,136.4779
+56,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,0.96,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 0.96. Action: device isolated, firewall rule applied.",1,1,97.7436
+57,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0515
+58,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,95.757
+59,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0539
+60,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,99.4516
+61,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,119.1979
+62,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,104.5624
+63,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0544
+64,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0269
+65,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0242
+66,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,100.072
+67,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,101.4685
+68,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0514
+69,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0245
+70,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0224
+71,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0229
+72,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0216
+73,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0222
+74,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DDoS,1.0,"3/3 agents confirmed threat. Type: DDoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,97.9376
+75,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0363
+76,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0231
+77,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0211
+78,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0223
+79,DDoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0209
+80,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0205
+81,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,1.0,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,94.9986
+82,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0355
+83,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0222
+84,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,1.0,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,96.2635
+85,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0389
+86,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0238
+87,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0208
+88,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.021
+89,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0212
+90,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0205
+91,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0205
+92,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0263
+93,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0214
+94,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0202
+95,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0197
+96,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0202
+97,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0206
+98,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0192
+99,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,1.0,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,94.6309
+100,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0334
+101,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0237
+102,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0213
+103,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,0.97,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 0.97. Action: device isolated, firewall rule applied.",1,1,96.5646
+104,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0403
+105,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0239
+106,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0209
+107,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0206
+108,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,0.99,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 0.99. Action: device isolated, firewall rule applied.",1,1,100.2416
+109,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0417
+110,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.024
+111,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0229
+112,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.024
+113,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0217
+114,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,DoS,0.98,"3/3 agents confirmed threat. Type: DoS. Weighted confidence: 0.98. Action: device isolated, firewall rule applied.",1,1,101.1939
+115,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0387
+116,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0258
+117,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0265
+118,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0222
+119,DoS,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0217
+120,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0218
+121,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0217
+122,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0225
+123,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0217
+124,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0218
+125,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0216
+126,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0208
+127,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0216
+128,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0212
+129,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0216
+130,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0218
+131,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0209
+132,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0208
+133,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.021
+134,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.021
+135,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0206
+136,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0208
+137,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0214
+138,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0209
+139,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0319
+140,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0226
+141,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.022
+142,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0214
+143,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0202
+144,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.022
+145,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0221
+146,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0215
+147,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0216
+148,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0207
+149,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0209
+150,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0204
+151,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0214
+152,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0204
+153,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0213
+154,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0208
+155,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0213
+156,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0219
+157,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0217
+158,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0215
+159,Mirai,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0211
+160,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.021
+161,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.021
+162,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,98.9348
+163,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0599
+164,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,95.2087
+165,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0389
+166,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,96.0179
+167,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0718
+168,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0252
+169,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.93,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.93. Action: device isolated, firewall rule applied.",1,1,96.3027
+170,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,97.2183
+171,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0421
+172,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,97.4246
+173,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.94,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.94. Action: device isolated, firewall rule applied.",1,1,96.2638
+174,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0412
+175,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.97,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.97. Action: device isolated, firewall rule applied.",1,1,96.3552
+176,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0604
+177,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0241
+178,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,99.074
+179,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,101.1485
+180,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,98.0064
+181,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0357
+182,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0222
+183,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,96.0781
+184,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.86,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.86. Action: device isolated, firewall rule applied.",1,1,96.6248
+185,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0395
+186,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0231
+187,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,95.9797
+188,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0418
+189,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.97,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.97. Action: device isolated, firewall rule applied.",1,1,95.6856
+190,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.97,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.97. Action: device isolated, firewall rule applied.",1,1,101.45
+191,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0339
+192,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0223
+193,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.95,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,94.4951
+194,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,1.0,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 1.0. Action: device isolated, firewall rule applied.",1,1,95.7719
+195,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.95,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,96.664
+196,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0384
+197,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.0228
+198,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Recon,0.98,"3/3 agents confirmed threat. Type: Recon. Weighted confidence: 0.98. Action: device isolated, firewall rule applied.",1,1,101.6639
+199,Recon,THREAT_CONFIRMED,3/3,ISOLATE_AND_BLOCK,Known_Threat,0.95,"3/3 agents confirmed threat. Type: Known_Threat. Weighted confidence: 0.95. Action: device isolated, firewall rule applied.",1,1,0.043

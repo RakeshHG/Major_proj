@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.99,
+  "precision": 0.9876543209876543,
+  "recall": 1.0,
+  "f1": 0.9937888198757764,
+  "false_positive_rate": 0.05,
+  "false_negative_rate": 0.0,
+  "avg_latency_ms": 37.8011195
+}
